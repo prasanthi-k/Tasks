@@ -1,3 +1,5 @@
+//copy paste the code to run online : https://openprocessing.org/sketch/create
+
 function setup() {
 	createCanvas(windowWidth, windowHeight);
 	background(100);
